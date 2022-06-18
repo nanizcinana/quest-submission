@@ -161,5 +161,6 @@ pub contract Test {
 
 ### Day 3
 
+![image](https://user-images.githubusercontent.com/106602127/174452210-d7a4a089-b788-4f5a-81f9-3f77371b9c01.png)
 
 
